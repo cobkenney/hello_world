@@ -9,7 +9,7 @@ Function to add two integers
 Return value {integer}
 '''
 def add_two(x, y):
-	return x + y
+	return (x + y) * 2
 
 
 if __name__ == '__main__':
